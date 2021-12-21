@@ -1,5 +1,4 @@
 
-
 body{
 font-family: 'Montserrat', sans-serif;
 text-align:center;
@@ -17,10 +16,10 @@ padding: 7% 15%;
 /*background-color: #ff4c68;*/
 background-image: radial-gradient(circle, orange, red);
 }
-
+/*
 color:#fff;
 }
-
+*/
 .white-section{
 background-color: #fff;
 
@@ -275,7 +274,13 @@ font-weight: 600;
 font-size: 2rem;
 padding: 0;
 }
- 
+ .nav-link{
+
+ font-size: 1.2rem;
+ font-family : "Montserrat";
+ font-weight: 500;
+ color:#000000;
+ }
  
  
  
